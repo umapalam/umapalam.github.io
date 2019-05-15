@@ -1,11 +1,11 @@
 # Site settings
-author: Uma  Palaniappan
-title: 
+author: Uma Palaniappan
+title: Data Science Exploration 
 header-img: img/home-bg.png
 email: umapalam@gmail.com
-copyright_name: Uma  Palaniappan
+copyright_name: Uma Palaniappan
 description: > # this means to ignore newlines until "baseurl:"
-  
+  An analysis of data, statistics and programming code
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  umapalam
