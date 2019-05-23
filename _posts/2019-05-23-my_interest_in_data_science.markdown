@@ -1,7 +1,7 @@
 ---
 layout: post
-title:      "**My Interest in Data Science **"
-date:       2019-05-23 19:08:36 +0000
+title:      "My Interest in Data Science "
+date:       2019-05-23 15:08:37 -0400
 permalink:  my_interest_in_data_science
 ---
 
