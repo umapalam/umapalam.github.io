@@ -14,6 +14,8 @@ After taking care of the null values by either replacing them or dropping them, 
 
 The second visualization was more simple. Even though it was a histogram I did not need to come up with a range for the bin sizes. The grades for each of the houses only extended to 12 so each grade had a bin within the graph. Histograms can be very tricky if it is not clear cut as this. Sometimes you would have to manipulate the data so that they are put in groupings. These groupings would be used to decide the bin sizes.
 
+https://drive.google.com/file/d/1wxvPsNbXoAtWFHg4pIryPsMKXEkeIDYs/view?usp=sharing
+
 The third visualization was good, I like scatter plots in that it is very simple to be able to tell whether or not two variables had a negative or positive relationship. This particular one had a positive relationship, where as the ‘sqft_living’ space increase so did the price of the individual house. This supports my idea that more space equally more money. Although, it was later that I found that some of my chosen variables for the regression were too close together and thus made the more unreliable. This could also have been caused by scaling issues.
 
 I probably could have improved on the last two visualizations. I now find that they could be too simplistic. This could be a reasonable error. I should have manipulated the data more so that I could understand it better. This is something to improve upon. I also noticed while looking back at the jupyter notebook that it was not very colorful which can perhaps take away from the impact of the images. Deciding on what to do for the figure size was also difficult in that sometimes the data on the graph appeared hard to see at times. This is also something to take into account, going forward.
