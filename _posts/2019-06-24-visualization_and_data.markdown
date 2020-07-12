@@ -12,6 +12,8 @@ My first thoughts after importing the library was to clean up the data. I would 
 
 After taking care of the null values by either replacing them or dropping them, I would move on to the exploration part of the project. This was where the visualizations would come in. I did three different graphs thoughout this part. They were a bar chart, histogram and scatter plot. The bar chart was based on the square feet of basement within each house. I wanted to create two categories. Those two categories would be large and small. I found the quantile range for the variable ‘sqft_basement’, first .33 and then at .66 in order to differentiate the two categories. I also ended up making a for loop that iterate these categories to the matching value. This required the use of if, else statements.
 
+[https://github.com/umapalam/Projects/blob/master/SqFeetBasementBar.png](http://)
+
 The second visualization was more simple. Even though it was a histogram I did not need to come up with a range for the bin sizes. The grades for each of the houses only extended to 12 so each grade had a bin within the graph. Histograms can be very tricky if it is not clear cut as this. Sometimes you would have to manipulate the data so that they are put in groupings. These groupings would be used to decide the bin sizes.
 
 
