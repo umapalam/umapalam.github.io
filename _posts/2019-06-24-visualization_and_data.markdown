@@ -12,12 +12,7 @@ My first thoughts after importing the library was to clean up the data. I would 
 
 After taking care of the null values by either replacing them or dropping them, I would move on to the exploration part of the project. This was where the visualizations would come in. I did three different graphs thoughout this part. They were a bar chart, histogram and scatter plot. The bar chart was based on the square feet of basement within each house. I wanted to create two categories. Those two categories would be large and small. I found the quantile range for the variable ‘sqft_basement’, first .33 and then at .66 in order to differentiate the two categories. I also ended up making a for loop that iterate these categories to the matching value. This required the use of if, else statements.
 
-https://github.com/umapalam/Projects/blob/master/SqFeetBasementBar.png
-
 The second visualization was more simple. Even though it was a histogram I did not need to come up with a range for the bin sizes. The grades for each of the houses only extended to 12 so each grade had a bin within the graph. Histograms can be very tricky if it is not clear cut as this. Sometimes you would have to manipulate the data so that they are put in groupings. These groupings would be used to decide the bin sizes.
-
-
-![](http://drive.google.com/file/d/1wxvPsNbXoAtWFHg4pIryPsMKXEkeIDYs/view?usp=sharing)
 
 The third visualization was good, I like scatter plots in that it is very simple to be able to tell whether or not two variables had a negative or positive relationship. This particular one had a positive relationship, where as the ‘sqft_living’ space increase so did the price of the individual house. This supports my idea that more space equally more money. Although, it was later that I found that some of my chosen variables for the regression were too close together and thus made the more unreliable. This could also have been caused by scaling issues.
 
